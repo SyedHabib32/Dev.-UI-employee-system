@@ -45,7 +45,7 @@ CREATE TABLE IF NOT EXISTS `emp_attendance` (
   `status_att` text NOT NULL);
   
   INSERT INTO `users` (`user_id`, `firstname`, `lastname`, `username`, `password`, `accounttype`) VALUES
-(1, 'syed', 'habib', 'syedhabib', '8f22a9a7dabd7872a3b4fc8bada5be96', 'Admin');
+(1, 'prince', 'syed', 'user', 'admin', 'Admin');
 
 
 
